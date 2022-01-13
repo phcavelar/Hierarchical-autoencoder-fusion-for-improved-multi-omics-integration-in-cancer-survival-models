@@ -4,7 +4,7 @@
 
 To reproduce any of the results, all you have to do is run the requisite bash scripts.
 
-You may obtain a copy the input all data files on [Kaggle](https://www.kaggle.com/davidwissel/hierarchicalautoencoderfusionformultiomics) for reproduction.
+You may obtain a copy the input all data files on [Polybox](https://polybox.ethz.ch/index.php/s/K6jJZIGKWXSmdmN) for reproduction.
 
 ### Setup
 
