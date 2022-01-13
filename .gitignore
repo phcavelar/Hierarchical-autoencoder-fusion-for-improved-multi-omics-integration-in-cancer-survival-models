@@ -1,0 +1,19 @@
+# Data
+*data*
+
+# Caches
+*.mypy_cache*
+*__pycache__*
+
+# DS_Store
+*DS_Store*
+
+# R Profile
+*.Rprofile
+
+# renv
+*renv*
+
+# Deprecated files
+*deprecated*
+.Rproj.user

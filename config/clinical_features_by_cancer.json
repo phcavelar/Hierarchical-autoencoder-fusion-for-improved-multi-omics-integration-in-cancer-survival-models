@@ -1,0 +1,180 @@
+{
+    "BLCA": [
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "diagnosis_subtype",
+        "pathologic_stage"
+    ],
+    "BRCA": [
+        "number_of_lymphnodes_positive_by_he",
+        "age_at_initial_pathologic_diagnosis",
+        "histological_type",
+        "breast_carcinoma_estrogen_receptor_status",
+        "breast_carcinoma_progesterone_receptor_status",
+        "breast_carcinoma_surgical_procedure_name"
+    ],
+    "COAD": [
+        "number_of_lymphnodes_positive_by_he",
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "pathologic_stage",
+        "venous_invasion",
+        "lymphatic_invasion"
+    ],
+    "ESCA": [
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "pathologic_stage",
+        "histological_type",
+        "residual_tumor"
+    ],
+    "HNSC": [
+        "tobacco_smoking_history",
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "clinical_stage",
+        "neoplasm_histologic_grade",
+        "alcohol_history_documented",
+        "lymphnode_neck_dissection"
+    ],
+    "KIRC": [
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "laterality",
+        "hemoglobin_result",
+        "white_cell_count_result",
+        "neoplasm_histologic_grade",
+        "pathologic_stage"
+    ],
+    "KIRP": [
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "laterality",
+        "white_cell_count_result",
+        "hemoglobin_result",
+        "pathologic_stage"
+    ],
+    "LGG": [
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "histological_type",
+        "laterality",
+        "visual_changes",
+        "sensory_changes",
+        "motor_movement_changes",
+        "tumor_location"
+    ],
+    "LIHC": [
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "pathologic_stage",
+        "vascular_tumor_cell_invasion_type",
+        "liver_fibrosis_ishak_score_category",
+        "laboratory_procedure_alpha_fetoprotein_outcome_value",
+        "laboratory_procedure_albumin_result_specified_value",
+        "hematology_serum_creatinine_laboratory_result_value_in_mg_dl"
+    ],
+    "LUAD": [
+        "tobacco_smoking_history",
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "pathologic_stage",
+        "anatomic_neoplasm_subdivision"
+    ],
+    "PAAD": [
+        "maximum_tumor_dimension",
+        "number_of_lymphnodes_positive_by_he",
+        "tobacco_smoking_history",
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "anatomic_neoplasm_subdivision",
+        "histological_type",
+        "neoplasm_histologic_grade",
+        "pathologic_stage",
+        "surgery_performed_type"
+    ],
+    "SARC": [
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "histological_type",
+        "metastatic_neoplasm_confirmed",
+        "radiation_therapy",
+        "tumor_tissue_site",
+        "tumor_total_necrosis_percent"
+    ],
+    "SKCM": [
+        "breslow_depth_value",
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "melanoma_ulceration_indicator",
+        "pathologic_stage",
+        "tumor_tissue_site"
+    ],
+    "LUSC": [
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "tobacco_smoking_history",
+        "pathologic_stage",
+        "anatomic_neoplasm_subdivision"
+    ],
+    "STAD": [
+        "number_of_lymphnodes_positive_by_he",
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "neoplasm_histologic_grade",
+        "pathologic_stage"
+    ],
+    "UCEC": [
+        "pct_tumor_invasion",
+        "weight",
+        "total_aor_lnr",
+        "total_pelv_lnr",
+        "age_at_initial_pathologic_diagnosis",
+        "histological_type",
+        "neoplasm_histologic_grade",
+        "clinical_stage",
+        "surgical_approach"
+    ],
+    "MESO": [
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "clinical_stage",
+        "histological_type"
+    ],
+    "LAML": [
+        "age_at_initial_pathologic_diagnosis",
+        "gender",
+        "clinical_stage",
+        "histological_type"
+    ],
+    "OV": [
+        "age_at_initial_pathologic_diagnosis",
+        "clinical_stage",
+        "tumor_residual_disease",
+        "anatomic_neoplasm_subdivision"
+    ],
+    "CESC": [
+        "age_at_initial_pathologic_diagnosis",
+        "clinical_stage",
+        "gender",
+        "histological_type"
+    ],
+    "GBM": [
+        "age_at_initial_pathologic_diagnosis",
+        "clinical_stage",
+        "gender",
+        "histological_type"
+    ],
+    "KICH": [
+        "age_at_initial_pathologic_diagnosis",
+        "clinical_stage",
+        "gender",
+        "histological_type"
+    ],
+    "READ": [
+        "age_at_initial_pathologic_diagnosis",
+        "clinical_stage",
+        "gender",
+        "histological_type"
+    ]
+}
