@@ -5,9 +5,9 @@
 import os
 import sys
 
-module_path = os.path.abspath(os.path.join("./src/"))
-if module_path not in sys.path:
-    sys.path.append(module_path)
+#module_path = os.path.abspath(os.path.join("./src/"))
+#if module_path not in sys.path:
+#    sys.path.append(module_path)
 
 import math
 
@@ -16,7 +16,7 @@ import skorch
 import torch
 from torch import nn
 
-from model.model_utils import BaseSurvivalNeuralNet
+from .model_utils import BaseSurvivalNeuralNet
 
 
 class Encoder(nn.Module):

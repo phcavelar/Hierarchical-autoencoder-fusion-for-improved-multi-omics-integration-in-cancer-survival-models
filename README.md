@@ -1,5 +1,7 @@
 # Hierarchical autoencoder fusion for improved multi-omics integration in cancer survival models
 
+This repository contains this work in "library" format for ease-of-use in one other repository I have. For the original code and structure, please refer to the original repository at: https://github.com/BoevaLab/Hierarchical-autoencoder-fusion-for-improved-multi-omics-integration-in-cancer-survival-models
+
 ## Reproduction guide
 
 To reproduce any of the results, all you have to do is run the requisite bash scripts.
